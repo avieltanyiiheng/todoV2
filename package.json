@@ -1,0 +1,27 @@
+{
+  "name": "todov2",
+  "version": "1.0.0",
+  "description": "retry Todo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avieltanyiiheng/todoV2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avieltanyiiheng/todoV2/issues"
+  },
+  "homepage": "https://github.com/avieltanyiiheng/todoV2#readme",
+  "devDependencies": {
+    "webpack": "^5.88.0",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "date-fns": "^2.30.0"
+  }
+}
